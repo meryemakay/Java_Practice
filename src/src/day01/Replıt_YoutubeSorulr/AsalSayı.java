@@ -16,6 +16,7 @@ public class AsalSayı {
                 boolean sonuc=false;
                 for (int j = 2; j <sayı ; j++) {
                     if (sayı%j==0){
+
                         sonuc=true;
                     }
 
