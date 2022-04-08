@@ -13,6 +13,8 @@ public class ForEach {
         for (int each : arr) {
 
             carpim*=each;
+
+
         }
 
         System.out.println("array'in tum elemanlarinin carpimi : " + carpim);
@@ -28,6 +30,8 @@ public class ForEach {
 
         System.out.println(carpım1);
     }
+
+
 
     }
 

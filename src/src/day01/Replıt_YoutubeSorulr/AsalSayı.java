@@ -25,6 +25,9 @@ public class AsalSayı {
                     sayac++;
                     asalaSayıLıstesı.add(sayı);
                 }
+
+
+
             }
             System.out.println("100 den küçük asal sayılar "+ sayac +" tanedir ve sunlardır :"+asalaSayıLıstesı);
         }
