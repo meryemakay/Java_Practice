@@ -20,6 +20,9 @@ public class C {
             while (sayi % 2 != 0 && sayi % 3 != 0 && sayi % 5 != 0) {
                 list.add(sayi);
                 sayi++;
+
+
+              //***
                 sayac++;
             }
         }
