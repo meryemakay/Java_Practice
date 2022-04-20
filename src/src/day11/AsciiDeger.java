@@ -35,13 +35,7 @@ Ascii value of e = 101
              Ascii value of z = 122
          */
 
-
-
-
-
-
         char ch='a';
-
 
 
         for (int i ='a'; i <='z';i++){
