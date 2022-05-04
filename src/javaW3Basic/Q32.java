@@ -30,6 +30,8 @@ public class Q32 {
 		}
 		
 	scan.close();
+
+
 	}
 
 }

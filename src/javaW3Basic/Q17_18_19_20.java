@@ -15,7 +15,8 @@ public class Q17_18_19_20 {
 		
 		int num ='F';
 		System.out.println(num);
-		
+
+
 		
 	}
 
